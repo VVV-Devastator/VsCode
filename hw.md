@@ -3,3 +3,5 @@ Hello world!
 to
 # Основные команды 1го семинара
 > *GIT init*
+
+> *GIT status*
