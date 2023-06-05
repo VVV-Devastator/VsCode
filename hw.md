@@ -19,3 +19,5 @@ to
 >	*git branch* – новая ветка
 
 > *git branch* – новая ветка4
+
+![Картинка для проверки](https://www.1zoom.ru/big2/541/255095-Sepik.jpg)
