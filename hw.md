@@ -11,12 +11,16 @@ to
 >	*git checkout* master – вернуться к актуальному состоянию и продолжить работу
 >	*git diff* – увидеть разницу между текущим файлом и закоммиченным файлом
 
-![Картинка для проверки](https://mobimg.b-cdn.net/v3/fetch/5c/5c9b90fbc17a0297f754197f4b469f50.jpeg)
+![Картинка для проверки](https://i.pinimg.com/originals/8a/a7/83/8aa7831e22f8d5c74aecfe0c0e6953e3.jpg)
 
-![Картинка для проверки2](111.jpg)
+
 
 
 >	*git branch* – новая ветка
+
+
+
+>	*git branch* – новая ветка2
 
 > *git branch* – новая ветка4
 
